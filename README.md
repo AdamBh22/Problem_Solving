@@ -13,11 +13,8 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/problem-solving.git
-cd problem-solving
+git clone https://github.com/AdamBh22/Problem_Solving.git
+cd Problem_Solving
 Navigate to the relevant topic folder to explore solutions.
 
 Solutions are accompanied by problem descriptions for better understanding.
-
-Contributing
-Feel free to contribute by forking the repository and submitting pull requests with additional problems or improvements.
